@@ -1,0 +1,30 @@
+body {
+  background-color: #d5e0f2;
+}
+.back{
+  background-color: #e8e8e8
+}
+.logo{
+  float:right;
+  color:#3c3d38;
+}
+.picture{
+  margin-left: 40px;
+  width: 30%;
+  float:left;
+}
+.image{
+  max-width: 1200px;
+  max-height: 800px;
+}
+
+.text{
+  float:left;
+  min-height: 100px;
+  margin-left: 40px;
+  width: 70%;
+}
+.content{
+  text-align: center;
+  margin-top: 20%;
+}
